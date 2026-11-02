@@ -1,0 +1,32 @@
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE and system
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+.ipynb_checkpoints/
+
+# Local datasets and product images
+data_tox/
+
+# Generated results, OCR caches and experiment outputs
+results/
+
+# Private evaluation annotations
+evaluation/gold.json
+evaluation/annotation/
