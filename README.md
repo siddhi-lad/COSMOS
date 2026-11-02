@@ -1053,14 +1053,51 @@ Thanks to the maintainers of these public scientific and technical resources and
 
 ---
 
+## Collaborators
+
 <div align="center">
 
-### COSMOS
+### Development Team
 
-**Transforming cosmetic ingredient labels into structured, evidence-backed intelligence.**
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/shrutmpatil">
+<img src="https://img.shields.io/badge/Shrut-Patil-blue?style=for-the-badge&logo=github" alt="Shrut Patil"/>
+</a>
+<br/>
+<a href="https://www.linkedin.com/in/shrutmpatil/">
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/siddhivlad">
+<img src="https://img.shields.io/badge/Siddhi-Lad-lightgrey?style=for-the-badge&logo=github" alt="Siddhi Lad"/>
+</a>
+<br/>
+<a href="https://www.linkedin.com/in/lad-siddhi/">
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
+</a>
+</td>
+</tr>
+</table>
 
-COSMOS — Cosmetic Ingredient Intelligence.
+</div>
 
-[github.com/siddhi-lad/COSMOS](https://github.com/siddhi-lad/COSMOS)
+---
+
+## License
+
+This project is **open-source** and available for modification and distribution.
+
+
+---
+
+<div align="center">
+
+### ⭐ Star this project if you find it useful!
+
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=room-environment-monitor)
 
 </div>
